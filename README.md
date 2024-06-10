@@ -36,5 +36,6 @@ Esta aplicación móvil avanzada proporciona un conjunto completo de funcionalid
 Contribuciones son bienvenidas. Para cambios importantes, por favor, abre un issue primero para discutir lo que te gustaría cambiar.
 
 ## Licencia
-
+Universidad Nacional de Colombia
+Diplomado en desarrollo de aplicaciones móviles
 [MIT](LICENSE)
