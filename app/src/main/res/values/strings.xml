@@ -1,0 +1,39 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Ejemplo Seguridad</string>
+
+    <!-- Textos para los botones de la actividad principal -->
+    <string name="login_authentication_button">Autenticación de Usuario</string>
+    <string name="login_authorization_button">Autorización y Control de Acceso</string>
+    <string name="login_data_protection_button">Protección de Datos y Privacidad</string>
+    <string name="login_success_message">¡Has iniciado sesión con éxito!</string>
+    <string name="login_back_button">Regresar</string>
+
+    <!-- Textos para la actividad de autenticación -->
+    <string name="AuthenticationActivity_Logintitle_title">Autenticación de Usuario</string>
+    <string name="AuthenticationActivity_username_hint">Nombre de usuario</string>
+    <string name="AuthenticationActivity_password_hint">Contraseña</string>
+    <string name="AuthenticationActivity_login_button_text">Iniciar sesión</string>
+    <string name="AuthenticationActivity_google_login_button_text">Iniciar sesión con Google</string>
+    <string name="AuthenticationActivity_authentication_explanation">Aquí explicaremos qué es la autenticación de usuario, los diferentes tipos y su importancia en el desarrollo de software.</string>
+    <string name="AuthenticationActivity_footer_image_description">Descripción de la imagen de pie de página</string>
+
+    <!-- Textos para la actividad de autorización -->
+    <string name="AuthorizationActivity_Logintitle_title">Autorización y Control de Acceso</string>
+    <string name="AuthorizationActivity_authorization_explanation">Aquí explicaremos qué es la autorización y control de acceso, la diferencia con autenticación y cómo implementarlos.</string>
+    <string name="AuthorizationActivity_apply_role_button_text">Aplicar Rol</string>
+    <string name="AuthorizationActivity_access_resources">Recursos de Acceso</string>
+    <string name="AuthorizationActivity_back_to_main_button_text">Regresar</string>
+
+    <!-- Textos para la actividad de protección de datos -->
+    <string name="DataProtectionActivity_Logintitle_title">Protección de Datos y Privacidad</string>
+    <string name="DataProtectionActivity_data_protection_explanation">Aquí explicaremos la importancia de proteger los datos del usuario, incluyendo temas como encriptación y buenas prácticas.</string>
+    <string name="DataProtectionActivity_data_protection_button"> Regresar </string>
+
+    <!-- Array de roles -->
+    <string-array name="roles_array">
+        <item>Administrador</item>
+        <item>Usuario</item>
+        <item>Invitado</item>
+    </string-array>
+</resources>
